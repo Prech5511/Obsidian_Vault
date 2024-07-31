@@ -1,0 +1,230 @@
+{
+  "main": {
+    "id": "5ae6557f7769540e",
+    "type": "split",
+    "children": [
+      {
+        "id": "0aaa23ae79c1c8ac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "502a5c28ed1cfa50",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Technically Nerd Things/esp32/esp32 with interesting projects & source.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9854a50306f0eb7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Technically Nerd Things/Play with Sensors/Brightness_sensor (Lux).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "77481c0732da5a4c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "26e31763b2ef6d6e",
+    "type": "split",
+    "children": [
+      {
+        "id": "b52c4653bcc8ea81",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ad99e66ca22a2c18",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d7071ad042e723c2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "path:\"Technically Nerd Things/\" ",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3f873f5975f49c26",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 350.5
+  },
+  "right": {
+    "id": "c014febd12774abd",
+    "type": "split",
+    "children": [
+      {
+        "id": "af1334bf489ee327",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "664c9d64e4d71af2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Technically Nerd Things/Play with Sensors/Brightness_sensor (Lux).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7870ea4e8f92f314",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Technically Nerd Things/Play with Sensors/Brightness_sensor (Lux).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "009da0df646de52b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2990e80ced11bc75",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Technically Nerd Things/Play with Sensors/Brightness_sensor (Lux).md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "ad99e66ca22a2c18",
+  "lastOpenFiles": [
+    "Technically Nerd Things/Play with Sensors/Color Sensors.md",
+    "Technically Nerd Things/Play with Sensors/Brightness_sensor (Lux).md",
+    "Technically Nerd Things/Play with Sensors/Keypad 4x4.md",
+    "Technically Nerd Things/Play with Sensors/Laser_Module.md",
+    "Technically Nerd Things/Play with Sensors/UltraSonic_Sensor.md",
+    "Technically Nerd Things/Play with Sensors/Water Sensor.md",
+    "Technically Nerd Things/Project1_Network_LQI/Master_Slave_esp32(s).md",
+    "Technically Nerd Things/esp32/esp32 with interesting projects & source.md",
+    "Technically Nerd Things/esp32/esp32 with CP2102 chip.md",
+    "Technically Nerd Things/esp32/esp32 with CH9102x chip.md",
+    "Technically Nerd Things/Play with Sensors/Infrared Sensor.md",
+    "Technically Nerd Things/Play with Sensors/IR_Communication.md",
+    "Technically Nerd Things/Play with Sensors/Temp_Humi_Sensor.md",
+    "Technically Nerd Things/Project1_Network_LQI/Network of esp32(s).md",
+    "Technically Nerd Things/Project2_GPS_module/About U-blox-NEO-M8N.md",
+    "Technically Nerd Things/Project2_GPS_module/Test U-blox-NEO-M8N.md",
+    "Technically Nerd Things/Map.canvas",
+    "Technically Nerd Things/esp32/esp32-CAM.md",
+    "Untitled.canvas",
+    "Map.md",
+    "Untitled 8.canvas",
+    "Pasted image 20240630190636.png",
+    "Untitled 2.md",
+    "Technically Nerd Things/Project1_Network_LQI",
+    "Technically Nerd Things/esp32/Node32s module based from esp32.md",
+    "Untitled.md",
+    "Pasted image 20240712135124.png",
+    "Pasted image 20240712135038.png",
+    "Technically Nerd Things/esp32/Vibration_Sensor.md",
+    "Pasted image 20240712125910.png",
+    "Pasted image 20240712125742.png",
+    "Untitled 7.canvas",
+    "Untitled 6.canvas",
+    "Pasted image 20240711171133.png",
+    "Pasted image 20240711170040.png",
+    "Pasted image 20240711161219.png",
+    "Pasted image 20240711160857.png",
+    "Pasted image 20240711160829.png",
+    "Technically Nerd Things/Untitled",
+    "Technically Nerd Things/esp32/Play with Sensors.md",
+    "Technically Nerd Things/Play with Sensors",
+    "Untitled 5.canvas",
+    "Untitled 4.canvas",
+    "Untitled 3.canvas",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
+    "Technically Nerd Things/GPS module/My experiment",
+    "2024-06-29.md",
+    "Technically Nerd Things/esp32/node32s",
+    "Technically Nerd Things/Project2_GPS_module",
+    "Technically Nerd Things/Learning esp32.md",
+    "Technically Nerd Things/esp32",
+    "Untitled 2",
+    "Untitled 1",
+    "Technically Nerd Things"
+  ]
+}

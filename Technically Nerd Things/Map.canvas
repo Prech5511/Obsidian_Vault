@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"365bd5d1fa7de330","type":"file","file":"Technically Nerd Things/Project1_Network_LQI/Master_Slave_esp32(s).md","x":-920,"y":-240,"width":400,"height":400},
+		{"id":"96dd735e80ce00f8","type":"file","file":"Technically Nerd Things/Project1_Network_LQI/Network of esp32(s).md","x":-80,"y":-240,"width":400,"height":400},
+		{"id":"9ec5246d5fc40d3d","x":-920,"y":360,"width":400,"height":400,"type":"file","file":"Technically Nerd Things/Project2_GPS_module/About U-blox-NEO-M8N.md"},
+		{"id":"12e034c6a13a37b7","x":-80,"y":360,"width":400,"height":400,"type":"file","file":"Technically Nerd Things/Project2_GPS_module/Test U-blox-NEO-M8N.md"}
+	],
+	"edges":[
+		{"id":"07e520bd9681037e","fromNode":"365bd5d1fa7de330","fromSide":"top","toNode":"96dd735e80ce00f8","toSide":"top"},
+		{"id":"cdb1e1595fb52b95","fromNode":"9ec5246d5fc40d3d","fromSide":"top","toNode":"12e034c6a13a37b7","toSide":"top"}
+	]
+}
